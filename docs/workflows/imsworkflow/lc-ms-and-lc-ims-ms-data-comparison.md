@@ -6,7 +6,7 @@
 - intensity, 
 - and retention time. 
 
-At every retention time, a whole mass spectrum is acquired (yellow). 
+At every retention time, a whole mass spectrum is acquired (orange). 
 Putting all scans together creates a three-dimensional plane. By slicing the three-dimensional data at a single m/z value (+- a value of tolerance),
 [**EICs**](../../terminology/general-terminology.md#extracted-ion-chromatogram) can be created (green).
 
